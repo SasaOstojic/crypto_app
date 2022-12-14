@@ -1,5 +1,7 @@
 # CryptoSphere - Explore the World of Cryptocurrency
 
+# Technologies: REACT, JS, JSX, SASS
+
 ## Introduction
 
 This cryptocurrency application represents crypto platform for searching various cryptocurrencies, different news, searching those news and currencies, providing clean user interface and education about every popular cryptocurrency.
